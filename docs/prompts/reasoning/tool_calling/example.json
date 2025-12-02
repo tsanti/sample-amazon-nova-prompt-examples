@@ -1,0 +1,108 @@
+{
+ "system": "You are an expert data analyst who can use available tools to analyze datasets and generate insights.\n  Use the appropriate tools to complete the requested analysis efficiently and provide comprehensive results.",
+ "messages": [
+  {
+   "role": "user",
+   "content": [
+    {
+     "text": "Analyze the sales performance for Q4 2024 and create a summary report with visualizations.\n  \n  The sales database contains tables: orders, customers, products, and sales_reps.\n  Focus on revenue trends, top-performing products, and regional performance."
+    }
+   ]
+  }
+ ],
+ "toolConfig": {
+  "tools": [
+   {
+    "toolSpec": {
+     "name": "query_database",
+     "description": "Execute SQL queries against the sales database",
+     "inputSchema": {
+      "json": {
+       "type": "object",
+       "properties": {
+        "sql_query": {
+         "type": "string",
+         "description": "The SQL query to execute"
+        }
+       },
+       "required": [
+        "sql_query"
+       ]
+      }
+     }
+    }
+   },
+   {
+    "toolSpec": {
+     "name": "create_chart",
+     "description": "Generate charts from data",
+     "inputSchema": {
+      "json": {
+       "type": "object",
+       "properties": {
+        "data": {
+         "type": "array",
+         "description": "The data to visualize"
+        },
+        "chart_type": {
+         "type": "string",
+         "enum": [
+          "bar",
+          "line",
+          "pie",
+          "scatter"
+         ],
+         "description": "Type of chart to create"
+        }
+       },
+       "required": [
+        "data",
+        "chart_type"
+       ]
+      }
+     }
+    }
+   },
+   {
+    "toolSpec": {
+     "name": "calculate_statistics",
+     "description": "Calculate statistical measures",
+     "inputSchema": {
+      "json": {
+       "type": "object",
+       "properties": {
+        "data": {
+         "type": "array",
+         "description": "The data to analyze"
+        },
+        "metrics": {
+         "type": "array",
+         "items": {
+          "type": "string",
+          "enum": [
+           "mean",
+           "median",
+           "growth_rate",
+           "std_dev"
+          ]
+         },
+         "description": "Statistical metrics to calculate"
+        }
+       },
+       "required": [
+        "data",
+        "metrics"
+       ]
+      }
+     }
+    }
+   }
+  ]
+ },
+ "additionalModelRequestFields": {
+  "reasoningConfig": {
+   "type": "enabled",
+   "maxReasoningEffort": "high"
+  }
+ }
+}

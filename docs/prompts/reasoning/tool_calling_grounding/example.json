@@ -1,0 +1,38 @@
+{
+ "system": "You are an expert financial analyst who can use web search and code execution to analyze company performance.\n  Use the available system tools to gather current financial information and perform analysis visualizations.\n  Always cite your sources with URLs and publication dates when available.",
+ "messages": [
+  {
+   "role": "user",
+   "content": [
+    {
+     "text": "Analyze Amazon's financial performance for 2024. Focus on:\n  - Revenue growth and quarterly trends\n  - Profitability metrics (gross margin, operating margin)\n  - Key financial ratios and comparisons to previous years\n  - Stock performance and market sentiment\n  \n  Use web search to find the latest financial reports, earnings calls, and market data. Then use code interpreter to:\n  - Extract and organize key financial metrics\n  - Calculate growth rates and ratios\n  - Create visualizations using matplotlib (charts, graphs, trend analysis)\n  - Generate mermaid diagrams for process flows or organizational structures\n  - Identify notable patterns or concerns\n  \n  Important: For all information gathered from web search, provide proper citations including:\n  - Source URLs\n  - Publication dates when available\n  - Brief description of the source (e.g., \"Amazon Q3 2024 Earnings Report\")\n  \n  Provide analysis charts and actionable insights with all sources properly cited.\n  \n  Ask clarifying questions if needed.\n  \n  Ask clarifying questions if needed."
+    }
+   ]
+  }
+ ],
+ "toolConfig": {
+  "tools": [
+   {
+    "systemTool": {
+     "name": "nova_grounding"
+    }
+   },
+   {
+    "systemTool": {
+     "name": "nova_code_interpreter"
+    }
+   }
+  ]
+ },
+ "additionalModelRequestFields": {
+  "reasoningConfig": {
+   "type": "enabled",
+   "maxReasoningEffort": "high"
+  }
+ },
+ "inferenceConfig": {
+  "temperature": 0.3,
+  "topP": 0.9,
+  "maxTokens": 10000
+ }
+}
