@@ -1,4 +1,4 @@
-site_name: Amazon Nova Prompt Library
+site_name: Amazon Nova Prompt Examples
 theme: 
   name: material
   features:
@@ -27,10 +27,20 @@ nav:
   - Prompts:
     - Generation:
       - Agility Story: prompts/generation/agility_story/example.md
-      - Function Generator: prompts/generation/function_generator/example.md
       - Creative Writing: prompts/generation/creative_writing/example.md
       - Illustration: prompts/generation/illustration/example.md
       - Image Manipulation: prompts/generation/image_manipulation/example.md
+    - Reasoning:
+      - Event Detection: prompts/reasoning/event_detection/example.md
+      - Long Context: prompts/reasoning/long_context/example.md
+      - Question & Answer: prompts/reasoning/question_answer_reasoning/example.md
+      - Tool Calling: prompts/reasoning/tool_calling/example.md
+      - System Tool Calling: prompts/reasoning/tool_calling_grounding/example.md
+    - Software Engineering:
+      - Architecture Review: prompts/software_engineering/architecture_review/example.md
+      - Code Refactoring: prompts/software_engineering/code_refactoring/example.md
+      - Function Generator: prompts/software_engineering/function_generator/example.md
+      - Microservices Architecture: prompts/software_engineering/microservices_architecture/example.md
     - Migrations:
       - OpenAI Migration - Meeting Notes: prompts/migrations/oai_migration_meeting_notes/example.md
     - Understanding:
@@ -43,6 +53,7 @@ nav:
       - Data Organizer: prompts/understanding/data_organizer/example.md
       - Explain Code: prompts/understanding/explain_code/example.md
       - Git Helper: prompts/understanding/git_helper/example.md
+      - Question Answer: prompts/understanding/question_answer/example.md
       - SQL Generation: prompts/understanding/sql_generation/example.md
       - Structured JSON: prompts/understanding/structured_json/example.md
 repo_url: https://github.com/aws-samples/sample-amazon-nova-prompt-examples

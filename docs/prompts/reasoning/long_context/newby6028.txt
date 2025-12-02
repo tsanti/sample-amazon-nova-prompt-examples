@@ -1,0 +1,1120 @@
+     1 Lead Plaintiff states that its motion is based on prior
+pleadings that it filed in support of its motion for preliminary
+approval of the Plan (#5755, 5756), on the briefing in connection
+with Lead Plaintiff’s responses to objections to preliminary
+approval of the Plan (#5773, 5774, 5775, and 5776), and on the
+first Declaration of Professor Roman L. Weil (expert on plan
+allocation 
+and 
+securities 
+violation 
+damages)(#5794), 
+filed
+contemporaneously with the instant motion, and any future response
+to additional objections or pleadings.  
+In addition to these enumerated pleadings, for this ruling the
+Court has once again reviewed all the pleadings relating to the
+preliminary approval of the settlement, as well as those relating
+to the instant motion: these extra instruments relating to the
+motion for preliminary approval are #5759, 5763,5764, 5765, 5766,
+5775, 5779, 5786; and additional pleadings relating to the instant
+motion for final approval of the Plan of Allocation are #5794, 5818
+5859, 5860, 5861, 5868, 5869 (duplicated in #5879), 5874, 5877,
+5880, 5881, 5884, 5892, 5893 (duplicated in 5894, 5895, 5896),
+    
+IN THE UNITED STATES DISTRICT COURT
+FOR THE SOUTHERN DISTRICT OF TEXAS
+HOUSTON DIVISION
+In Re Enron Corporation        § 
+Securities, Derivative &       §            MDL-1446
+"ERISA” Litigation             § 
+                               § 
+MARK NEWBY, ET AL.,            § 
+                               § 
+              Plaintiffs       § 
+                               § 
+VS.                            §   CIVIL ACTION NO. H-01-3624
+                               §       CONSOLIDATED CASES
+ENRON CORPORATION, ET AL.,     § 
+                               § 
+              Defendants       § 
+ 
+CONCLUSIONS OF LAW, FINDINGS OF FACT, AND ORDER
+RE FINAL APPROVAL OF PLAN OF ALLOCATION
+Pending before the Court in the above referenced cause
+is Lead Plaintiff the Regents of the University of California’s
+motion for final approval of the proposed Plan of Allocation of
+the settlement proceeds (instrument #5793).1  A Fairness Hearing
+
+
+5897, 5898, 5899, 5900, 5919, 5921, 5934, 5936, 5948, 5951, and
+5957.  The Court has also considered the oral arguments made by
+various parties at the Fairness Hearing on February 29, 2008,
+including presentation of, and objections to, the Plan of
+Allocation.
+     2 The settlement fund is comprised of the following
+recoveries:
+Andersen Worldwide            $33,330,000
+Bank of America               $69,000,000
+Lehman Brothers              $222,500,000
+Outside Directors/Harrison   $168,000,000
+LJM2                          $51,900,000
+Arthur Andersen               $72,500,000
+Kirkland & Ellis              $10,160,000
+Citigroup                  $2,000,000,000
+JPMorgan Chase             $2,200,000,000
+CIBC                       $2,400,000,000
+                                       
+Total                    $7,227,000,000
+Declaration of Helen Hodges, #5818 at 2.
+- 2 -
+addressing the requested award of attorneys’ fees, reimbursement
+of expenses, and the Plan of Allocation for final approval of the
+partial settlements2 was held on February 29, 2008.
+I.  Conclusions of Law
+A.  Jurisdiction
+The 
+Court 
+has 
+federal 
+question 
+subject 
+matter
+jurisdiction under 28 U.S.C. § 1331 over this dispute arising out
+of violations of the federal securities laws, in particular §§
+10(b), 20(a), and 20A of the Exchange Act of 1934, 15 U.S.C. §§
+78j(b), 78t(a), and 78t-1, and Rule 10b-5 promulgated thereunder,
+17 C.F.R. § 240.10b-5, and §§ 11, 12(a)(2), and 15 of the
+
+
+- 3 -
+Securities Act of 1933, 15 U.S.C. §§ 77k, 77l(a)(2), and 77o.
+This Court also has jurisdiction under the Private Securities
+Litigation Reform Act of 1995 (“PSLRA”) pursuant to § 22 of the
+Securities Act of 1933, 15 U.S.C. 77v, and § 27 of the Securities
+Exchange Act of 1934, 15 U.S.C. § 78aa.
+As for personal jurisdiction over the absent plaintiff
+class members, in Phillips Petroleum Co. v. Shutts, 472 U.S. 797
+(1985), the Supreme Court noted the distinction between an out-of-
+state defendant haled into a foreign court to defend or suffer a
+default judgment and an absent class-action plaintiff who may lack
+all minimum contacts with the forum state and cited its earlier
+opinion in Hansberry v. Lee, 311 U.S. 32, 40-41 (1940):
+[A] “class” or “representative” suit was an
+exception to the rule that one could not be
+bound by a judgment in personam unless one
+was made fully a party in the traditional
+sense. . . . As the Court pointed out in
+Hansberry, the class action was an invention
+of equity to enable it to proceed to a decree
+in suits where the number of those interested
+in the litigation was too great to permit
+joinder.  The absent parties would be bound
+by the decree so long as the named parties
+adequately represented the absent class and
+the prosecution of the litigation was within
+the common interest.
+Shutts, 472 U.S. at 808.  Thus “a forum State may exercise
+jurisdiction over the claim of an absent class-action plaintiff,
+even though the plaintiff may not possess the minimum contacts
+
+
+- 4 -
+with the forum which would support personal jurisdiction over a
+defendant.”  Id. at 811.  Nevertheless, 
+[i]f the forum State wishes to bind an absent
+plaintiff concerning a claim for money
+damages or similar relief at law, it must
+provide 
+minimal 
+procedural 
+due 
+process
+protection.  The plaintiff must receive
+notice plus an opportunity to be heard and
+participate in the litigation, whether in
+person or through counsel.  The notice must
+be 
+the 
+best 
+practicable, 
+“reasonably
+calculated 
+under 
+all 
+circumstances, 
+to
+apprise interested parties of the pendency of
+th action and afford them an opportunity to
+present their objections. . . . The notice
+should 
+describe 
+the 
+action 
+and 
+the
+plaintiffs’ rights in it.  Additionally, we
+hold that due process requires at a minimum
+that an absent plaintiff be provided with an
+opportunity to remove himself from the class
+by executing and returning an “opt out” or
+“request for exclusion” form to the court.
+Finally, the Due Process Clause of course
+requires that the named plaintiff at all
+times adequately represent the interests of
+the absent class members.
+Id. at 811-12 [citations omitted]; see also Silber V. Mabon, 18
+F.3d 1449, 1453-54 & n.3 (9th Cir. 1994)(applying Shutts in
+securities class action).  
+B. Standard of Review
+Pursuant to Federal Rule of Civil Procedure 23(e)(1) and
+(2), regarding a proposed settlement, “The court must direct
+notice in a reasonable manner to all class members who would be
+bound by the proposal. . . . If the proposal would bind class
+members, the court may approve it only after a hearing and on
+
+
+     3 Quoting Cohen v. Resolution Trust Corp., 61 F.3d 725, 728
+(9th Cir. 1995), vacated on other grounds, 72 F.3d 686 (9th Cir.
+1996).
+- 5 -
+finding that it is fair, reasonable and adequate.”  See also
+Cotton v. Hinton, 559 F.2d 1326, 1339 (5th Cir. 1977)(“In
+determining whether to approve a proposed settlement, the cardinal
+rule is that the District Court must find that the settlement is
+fair, adequate and reasonable and is not the product of collusion
+between the parties.”).  The same standard of review “applies with
+as much force to the review of the allocation agreement as it does
+to the review of the overall settlement between plaintiffs and
+defendants.”  In re Chicken Antitrust Litig., 669 F.2d 228, 238
+(5th Cir. 1982), quoted for the same proposition, Schwartz v. TXU
+Corp., No. 3:02-CV-2243-K, 2005 WL 3148350, *23 (N.D. Tex. Nov.
+8, 2005); In re Ikon Office Solutions, Inc. Sec. Litig., 194
+F.R.D. 166, 184 (E.D. Pa. 2000)(same).  Generally courts will find
+“reasonable” a plan of distribution that reimburses class members
+based on the type and extent of their damages.  In re Ikon, 194
+F.R.D. at 184.  Nevertheless, “‘a class action settlement need not
+necessarily treat all class members equally.’”  Schwartz v. TSU
+Corp., No. 3:02-CV-2243-K, et al., 2005 WL 3148350, *23 (N.D. Tex.
+Nov. 8, 2005)3, citing inter alia Petruzzi’s, Inc. v. Darling-
+Delaware Co., 880 F. Supp. 292, 300-01 (M.D. Pa. 1995)(“disparate
+treatment of class members may be justified by a demonstration
+
+
+     4 Schwartz, 2005 WL 3148350, at *23, also cites In re
+Microstrategy, Inc. Sec. Litig., 148 F. Supp. 2d 654, 669 (E.D. Va.
+2001)(approving plan of allocation that “sensibly makes interclass
+distinctions based upon, inter alia, the relative strengths and
+weaknesses of class members’ individual claims and the timing of
+the purchases of the securities at issue”); In re Aetna Sec.
+Litig., No. CIV. A. MDL 1219, 2001 WL 20928, *12 (E.D. Pa. Jan. 4,
+2001)(approving plan of allocation that “acknowledges the differing
+losses suffered by Claimants depending on the dates on which they
+purchased and sold Aetna stock and the price at which they may have
+sold the shares”).
+- 6 -
+that the favored class members have different claims or greater
+damages”).4  Deciding the fairness of a settlement is within the
+sound discretion of the trial court, whose determination will not
+be overturned absent a clear showing of abuse of that discretion.
+Chicken, 669 F.2d at 238.  
+Furthermore, the Fifth Circuit has opined, “In addition,
+our judgment is informed by the strong judicial policy favoring
+settlements as well as the realization that compromise is the
+essence of settlement.  As we have said elsewhere, a ‘just result
+is often no more than an arbitrary point between competing notions
+of reasonableness.’”  Id., citing In re Corrugated Container
+Antitrust Litigation, 659 F.2d 1332, 1325 (5th Cir. 1981).  Lead
+Plaintiff emphasizes, through its expert Professor Roman Weil,
+there is no single, unique, fair, reasonable and adequate Plan of
+Allocation. 
+C.  Notice to Class Members
+
+
+- 7 -
+Federal Rule of Civil Procedure 23(c)(2)(B) requires for
+classes certified under Rule 23(b)(3) “the best notice practicable
+under the circumstances, including individual notice to all
+members who can be identified through reasonable effort.”  Rule
+23(e)(1) mandates, “The court must direct notice in a reasonable
+manner to all class members who would be bound by the proposal.”
+The Due Process Clause of the United States Constitution also
+imposes minimum notice requirements, which are met if the notice
+satisfies Rule 23(c)(2).  Eisen v. Carlisle & Jacquelin, 417 U.S.
+156, 173-74 (1974)(for due process, notice in a class action must
+provide a fair recital of the subject matter and of the proposed
+terms and must give the class an opportunity to be heard); In re
+Nissan Motor Corp. Antitrust Litig., 552 F.2d 1088, 1097 (5th Cir.
+1977); Miller v. Republic Nat’l Life Ins. Co., 559 F.2d 426, 429-
+30 (5th Cir. 1977).  Generally the notice requirements of Federal
+R. Civ. P. 23(c)(2)(B) may be met by a combination of individual
+notice to identifiable class members and notice by publication.
+6A Fed. Proc., L. Ed. § 12:312 (and cases cited therein).  
+Under Federal Rule of Civil Procedure 23(e), the notice
+in a class action settlement must inform class members of “(i) the
+nature of the action; (ii) the definition of the class certified;
+(iii) the class claims, issues, or defenses; (iv) that a class
+member may enter an appearance through an attorney if the member
+
+
+     5 Under Article 581-33(a)(1) of the Texas Securities Act,
+rescission is the remedy if the purchaser still owns the securities
+or damages if he no longer does.  Citizens Ins. Co. of America v.
+- 8 -
+so desires; (v) that the court will exclude from the class any
+member who requests exclusion; (vi) the time and manner for
+requesting exclusion; and (vii) the binding effect of a class
+judgment on members under Rule 23(c)(3).”
+In addition, the notice must also be provided timely,
+allowing a sufficient period for the class members to respond,
+make any objections, and prepare for the Fairness Hearing.  See,
+e.g., Miller, 559 F.2d at 429 (finding a period of four weeks
+between the mailing of the notice and the hearing to be
+sufficient).  Notice is “adequate if it may be understood by the
+average class member.  4 Alba Conte & Herbert B. Newberg, Newberg
+on Class Actions § 11:53 at 167 (4th ed. 2002).
+II.  Findings of Fact
+A.  Plan of Allocation
+A substantial difficulty, unusual if not unique, in
+drafting a plan of allocation that was fair, reasonable, and
+adequate to all class members in the Newby litigation was the wide
+variety 
+of 
+securities 
+involved; 
+the 
+settlements 
+covered
+approximately 195 different Enron or Enron-related securities.
+Furthermore, there were claims under §§ 10(b), 11 and the Texas
+Securities Act, each with a different measure of damages.5
+
+
+Hakim Deccach, 217 S.W.3d 430, 436 n.1 (Tex. 2007).  Section 11
+damages are limited by statute, 15 U.S.C. § 77k (plaintiff may
+recover “the difference between the amount paid for the security)
+not exceeding the price at which the security was offered to the
+public)” and (i) the value at the time the case was brought, or
+(ii) the price at which the security was sold before the case was
+brought, or (iii) the price at which the security was sold after
+the case was brought if that generates damages of less than the
+difference between the price paid (limited to the offering price)
+and the value on the date the case was brought.  Section 10(b)
+prevailing securities investors recover inflation-adjusted losses.
+Pursuant to case law, since the statute does not establish a
+means of measuring damages, Professor Weil explains that the Plan
+measures § 10(b) losses based on inflation, by using a value line,
+a standard method of measuring class damages, and the Court refers
+the parties to that discussion rather than repeating it here.  See
+#5794 at 8-10.  After reviewing the whole Plan of Allocation,
+Professor Weil concluded that the Plan is fair, reasonable and
+adequate.  Id. at 10.
+- 9 -
+The Court finds that the settlement Notice, in clear
+language easily understandable by a layman, defined the class,
+apprised the potential class members of the terms of the
+settlement, the proposed plan of allocation and their options,
+their right to participate in the cash distribution by filing a
+timely and valid Proof of Claim form, and their right to object
+and to be heard at the Fairness Hearing on February 29, 2008.
+Notice was timely given, approximately two months prior to the
+Fairness Hearing.
+Pursuant to Stipulations of Settlement, the settlement
+fund recovered from nine partial settlements and resolution of the
+LJM2 bankruptcy claim amounts to $7,227,390,000, plus interest,
+
+
+     6 The Notice at VII informs class members of the amounts of
+money and percentages Lead Counsel and class representatives are
+seeking as fees and expenses. The Court addresses the issues of
+Lead Counsel’s fee award and of class representatives’ expenses in
+separate orders.
+     7 All the definitions of terms used in the Plan are found at
+#5900, Ex. A, Notice at § III.
+     8 Lead Counsel states it received assistance from Stanford
+Consulting (a damages consultant), Chris Patti (University Counsel
+for the Regents), consultants Robert Fairbank and Rock Hanken,
+hired by the Regents, and Professor Roman Weil, in preparing the
+Plan of Allocation.  #5897 at 10-11, ¶¶ 37, 40, 42.
+- 10 -
+and minus notice and administration  expenses, Lead Counsel’s fees
+and expenses, and various plaintiffs’ costs and expenses.  
+Under the proposed Plan of Allocation, the settlement
+fund, net of expenses and the fee award,6 would be distributed to
+“Eligible Claimants,” as defined in the Plan,7 on the basis of
+their individual claims.  See Corrected Order Approving Form and
+Manner of Notice, #5789, Ex. A, § V.A.; also found at Declaration
+of Carole K. Sylvester, #5900, Ex. A, “Notice,” § V. A.  The
+proposed Plan of Allocation is described in the Notice mailed on
+December 21, 2007 to all persons and their beneficiaries who
+purchased or acquired any Enron securities or Enron-related
+securities by any method from September 9, 1997 to December 2,
+2001.  Id. at § V and Declaration of Carole K. Sylvester, #5900
+at 2.  The proposed Plan was drafted by Lead Counsel and Lead
+Plaintiff, aided by their damage consultants and others,8 and with
+consultation with other attorneys in this litigation, for
+
+
+     9 Category 1 securities include Enron common stock, Enron debt
+(Notes), Enron preferred securities, put and call options on Enron
+common stock, and derivatives known as the “Foreign Debt
+Securities.”
+- 11 -
+distribution of the settlement fund to investors who suffered
+losses resulting from the alleged Enron fraud and to pay for the
+expense of the litigation.  The proposed Plan was first published
+in July 2007 for public comment, available on the web site
+www.enronfraud.com.  After receiving and reviewing public comments
+and further discussions with its consultants, Lead Plaintiff made
+adjustments to the Plan.  Subsequently in negotiating with
+objectors, other changes were made.
+Lead Counsel divided the eligible securities, listed in
+exhibits 1 and 3 to the Notice, into two groups.  #5756 at 3-4;
+Notice at V.B. (#5900 Ex. A).  
+The first group (“Category 1") were securities issued
+by Enron, some of its predecessor firms (Internorth or Houston
+Natural Gas) or trusts, or other entities created by Enron for the
+purpose of issuing a particular security, or were derivatives of
+those securities.9  Id.  Their price or value during the Eligible
+Period (September 9, 1997 through December 2, 2001, inclusive) was
+mainly dependent on Enron’s credit, financial condition or ability
+to pay, and disclosure of alleged fraud at Enron had to cause
+movement in the price of these securities.  Id. at 4.  This group
+were the main focus of the Newby litigation and therefore the Plan
+
+
+     10 Lead Plaintiff’s expert, Professor Ramon Weill, explains
+that Category 1 is composed of securities which the Newby complaint
+asserted, while Category 2 is composed of “securities that the
+settling defendants added to the set of securities subject to the
+settlements.”  #5794 at 6.
+     11 The Plan makes clear that in accordance with federal
+securities law, “The market price (or value, if market prices are
+- 12 -
+of Allocation is structured to distribute about 95% of the
+proceeds to them.  Id.  
+The second group, “Category 2,”10 were composed of
+securities issued by Enron-related entities, including equity,
+debt, preferred securities and derivatives of those securities.
+Disclosure of the alleged fraud at Enron did not affect the prices
+of some of them (listed in Exhibit 2), and the plan of allocation
+therefore excludes those from participation in the settlement
+funds.  Other Category 2 securities’ prices were affected by the
+disclosures; thus purchasers and acquirers of those securities,
+listed in exhibit 1, which is not necessarily exhaustive, do share
+in the distribution.  Still other Category 2 securities, listed
+in exhibit 3, are classified in an “unknown” category because
+pricing data for them was not available despite great efforts by
+Lead Counsel and its damages expert to obtain them.  Thus these
+may share in the distribution, but only if the claimant presents
+adequate evidence of both the price or value of the security and
+of a decline in that the price or value caused by disclosure of
+alleged fraud at Enron.11  Furthermore, because the claims for
+
+
+not available) of the Enron or Enron-Related Security, must have
+declined due to disclosure of the alleged Enron fraud.”  #5900,
+Notice, § V.C.(g).
+- 13 -
+eligible Category 2 securities were determined by Lead Counsel to
+be “weaker” than the Category 1 claims, the plan of allocation
+limits distribution to them to 5% of the settlement proceeds.  Id.
+Lead Plaintiff adequately explains that in an effort to
+be fair to all eligible claimants, for at least two reasons it
+commingled the settlement funds into a single pool, rather than
+allocating them into different pools with distribution dependent
+on the particular claims (§ 10(b) or § 11) asserted against a
+particular defendant.  First, even when a settlement was achieved
+against a particular defendant at a time when only one type of
+claim was pending against it, e.g., a § 11 claim, having different
+pools would not have recognized that in certain circumstances,
+other claims, e.g., § 10(b) claims, had been asserted against that
+same defendant but had been dismissed, leaving appellate exposure
+against that defendant.  Second, if a specific amount was
+allocated to cover only a particular security and the number of
+claims made based on that security was significantly lower than
+that for other eligible securities, a windfall would result for
+those claimants.  Because the Regents observed that certain § 11
+claims drove certain settlements with certain defendants, the
+Regents, with the aid of its economic/damage expert, created
+
+
+     12 For example, purchasers of Enron’s 7% Notes, which had both
+§ 10(b) and § 11 claims, that have a “Recognized Claim” are
+entitled to the greater of the § 10(b) measure of loss or three
+times the § 11 measure of loss and they share in total settlements,
+including the $6.5 billion generated through the settlements of §
+10(b) claims.  See #5764.  See also #5900, Notice, D3 regarding
+multipliers for § 11 claimants.
+     13 Under the Plan, V.C.1.(a), a ”’Recognized Loss’ is the
+amount of a claim under this Plan before the application of any
+- 14 -
+“multipliers” to put those claimants in the same economic position
+they would have been in if separate pools of money had been
+allocated for various section 11 claims and another for the §
+10(b) claims.12  Last of all, formulae for calculated claims were
+derived from the Federal Rule of Civil Procedure 26 reports that
+were prepared by the Regents’ economic/damage experts, whose
+damage theories Lead Plaintiff would have presented at trial; in
+other words the formulae reflected Lead Counsel’s determination
+of what the damages to class members were and what Lead Counsel
+thought it could prove at trial. 
+Under the Plan, “Eligible Claimants,” defined in the
+Plan (Notice at § V.A.1 and 2), who submit valid and timely Proof
+of Claim forms, under the circumstances identified in Notice §§
+V-VI, will receive cash distributions from the net balance of the
+settlement fund.  The Plan treats all Eligible Claimants
+similarly, so everyone entitled to a distribution who submits a
+valid and timely claim will receive a pro rata share of the Net
+Settlement Fund in the proportion that his “Recognized Claim”13
+
+
+multiplier.”  Under V.C.1.(b), a “‘Recognized Claim’ is the amount
+of a claim under this Plan after the application of a multiplier,
+or, if no multiplier is applied, remains equal to the Recognized
+Loss.”
+- 15 -
+bears to the total of all Recognized Claims.  As Professor Weil
+declares, “In general each Authorized Claimant will receive an
+amount determined by multiplying the net settlement fund by a
+fraction, the numerator of which is the authorized claimant’s
+Recognized Claim and the denominator of which is the total
+Recognized Claims of all Authorized Claimants.”  #5794 at 7-8.
+Lead Counsel estimates that there are more than a million class
+members 
+who 
+may 
+submit 
+claims 
+and 
+subsequently 
+receive
+distributions of the settlement funds.  #5794 at 5, ¶ 20.
+The Court finds that the Plan of Allocation was
+negotiated at arm’s length, with no evidence, nor allegations, of
+collusion, and that the allocation is fair, reasonable and
+adequate as to Class Members.  The Court further finds that
+methodology used by Lead Counsel took into consideration the
+unique facts and circumstances of this litigation, interclass
+distinctions based on the relative strength and weaknesses of the
+different claims, the timing of purchases and sales, the magnitude
+of the loss, and the different kinds of recovery available under
+the different statutes, in producing a fair, adequate and
+reasonable plan for distribution of the funds.  The Court notes
+that the Plan Allocation has also been found to be fair, adequate,
+
+
+- 16 -
+and reasonable by expert Professor Ramon Weil, after careful
+examination of its underlying facts and principles.  #5795 at 6-10
+The Court finds that Lead Plaintiff has given the best
+notice practicable under the circumstances and has fully satisfied
+all applicable notice requirements, including the United States
+Constitution, Rule 23(e) and Rule 23(c)(2)’s requirement of
+individual notice “to all members who can be identified through
+reasonable effort.”  Reasonable Notice of the Plan of Allocation
+and opportunity to opt out were provided to in-state and out-of-
+state Class Members in this action, pursuant to this Court’s
+order.  Court’s Corrected Order Approving Form and Manner of
+Notice (#5789)(with Notice, Ex. 1, and Proof of Claim Form, Ex.
+2, attached)(finding the Notice “constitutes the best notice
+practicable under the circumstances” to notify class members of
+this action, their right to object to the Plan, the award of
+attorneys’ fees, and the award of expenses to be paid to Lead
+Plaintiff and class representatives).  Claims Administrator
+Gilardi & Co. mailed the Notice and Proof of Claim form by first-
+class mail, postage prepaid, to all Eligible Claimants that could
+be identified by Lead Plaintiffs’ counsel with reasonable effort
+at each claimant’s last known address.  Id.; Declaration of Carole
+K. Sylvester (of Gilardi & Co., LLC)(regarding the mailing of the
+Notice), #5900.  Furthermore the Court’s order directed banks,
+
+
+- 17 -
+brokerage firms, institutions, and other persons (“nominees”) who
+purchased Eligible Securities for the beneficial owners of those
+securities, within ten calendar days of receiving the Notice,
+either (a) to send the Notice to the beneficial owners, or (b) if
+they had not already done so with prior settlements, to send a
+list containing the names and addresses of the beneficial owners
+to the Claims Administrator, which in turn promptly mailed Notice
+to the beneficial owners.  Id.  The Claims Administrator mailed
+1,262,301 claim packets to potential class members on December 21,
+2007, 81 more claim packages on January 2, 2008 to entities
+holding securities for the benefit of class member customers, and,
+in response to correspondence or inquiries from potential class
+members, 328,051 more.  #5900 at 2.  Notice by publication, twice
+in Investor’s Business Daily on December 26 and 27, 2007 and twice
+in the Houston Chronicle on the same dates, was also effected
+pursuant to the Court’s Order.  #5789 and 5900.  Lead Counsel and
+the Claims Administrator also published the Notice and Proof of
+Claim form on the Internet, with a clear explanation of the
+Fairness Hearing set before this Court on February 29, 2008:
+http://www.enronfraud.com/enr-cgi-bin/mil?templ=settlement.html
+and http://www.gilardi.com/enron/securities/.  That Fairness
+Hearing took place as scheduled.
+B.  Objections
+
+
+     14 See Cotton v. Hinton, 559 F.2d 1326, 1331 (5th Cir.
+1977)(“Particularly in class action suits, there is an overriding
+public interest in favor of settlement.”).
+- 18 -
+Lead Plaintiff observes that although the class members’
+losses are approximately $44 billion, the settlement fund is
+composed of limited dollars (approximately $7.2 billion) for which
+there are competing claimants; there are more than one million
+class members who may make claims and receive distributions.
+Inevitably some will complain that the Plan of Allocation is
+unfair to them.  If changes are made to the current Plan in
+response to objections, some claimants will receive more and
+others less.  Lead Plaintiff urges, “While the Plan may not
+satisfy every potential claimant, that does not mean that it is
+unfair.  To the contrary, the Plan is the product of serious
+informed choices, is fair, reasonable and adequate and should be
+finally approved.”  #5892 at 3.  This Court agrees.  Moreover, in
+addition to the strong policy favoring settlement in class action
+suits,14 the Court notes that had the partial settlements in this
+litigation not been achieved when they were, under the Supreme
+Court’s recent ruling in Stoneridge Inv. Partners, LLC v.
+Scientific-Atlanta, Inc., 126 S. Ct. 761 (2008), most of the
+recovery fund based on § 10(b) claims would likely not have been
+obtained by Newby plaintiffs.
+1.  Resolved Objections
+
+
+- 19 -
+Objections filed by several class members have been
+resolved:  (1) the J. Corman Family Limited Partnership # 3, which
+objected (#5859)to the inflation percentage (76%) attributed to
+Enron “bond-like” preferred stock, compared with that (94%) for
+common stock and “stock-like” preferred, was resolved when Lead
+Counsel agreed to modify the plan of allocation (#5936 at 1); (2)
+the Ruben Parties, who complained that the Plan discriminates
+against Eligible Claimants who “acquired” rather than purchased
+Eligible Securities (#5861, 5860, 5919) was resolved and withdrawn
+(#5934, 5936 at 1); (3) Nathaniel Pulsifer as Trustee of the
+Shooter’s Hill Revocable Trust (#5764, 5783); and (4) Brian
+Dabrowski (#5759, 5783).
+2.  Pending Objections
+a.  Stanley Majors (#5840) complains that the cut-off date of the
+Eligible Period for reimbursement, December 2, 2001 is too early
+because he purchased his Enron stock after Enron was in
+bankruptcy, beginning in January, 2003, at less that eight cents
+per share.
+As Lead Plaintiff responds, the Regents never included
+2002 and 2003 in their complaint nor asserted any basis to do so.
+Moreover, Mr. Majors concedes that he purchased the stock in 2003
+“when ENRON was in bankruptcy and ‘fraud’ was not told to me when
+I purchased my stocks,” but that he did so because “[i]t still
+
+
+     15 Joined by Nasser Pebdani (#5877).
+- 20 -
+looked to me Enron would come out of bankruptcy and be a viable
+company once again.”  His investment decision was not based on the
+same facts and circumstances as those asserted on behalf of the
+class in the Newby complaint.  
+The Court agrees with Lead Plaintiff and overrules Mr.
+Majors’ objection.  
+b.  Larry Fenstad and Dorothy Lancaster McCoppin15 (#5868) complain
+that (1) the Notice and Proof of Claim form are confusing; (2)
+there is no timetable for the Claims Administrator (Gilardi & Co.)
+to resolve claims; (3) the Court should require reports about the
+status of distribution from Claims Administrator every 90 days;
+(4) should have an appeals process; (5) the deadline for filing
+claims should be extended; (6) additional instructions from
+Administrator should be given to all class members; and (7) the
+claims deadline should be extended.
+ The Court finds these objections should be overruled.
+When this Court approved the form and matter of the Notice and
+Proof of Claim Form (#5789) prior to its being mailed to potential
+class members, the Court had already found that the Notice, along
+with the Proof of Claim form, while addressing a complex matter,
+is clear, understandable by laymen, and adequately informative.
+If they were confused, the Plan referred then to two web sites,
+
+
+- 21 -
+www.gilardi.com or www.enronfraud.com and stated they could write
+to Lead Counsel about any questions regarding the Plan of
+Allocation.  Notice at § X.  In addition, two open meetings were
+held on March 27 and 29, 2008 in Houston, Texas for Enron class
+members, and representatives of Lead Counsel and of the Claims
+Administrator were present to answer individual questions
+regarding the Plan of Allocation and the Proof of Claim Form.
+These objectors have not indicated if they utilized any of these
+opportunities to express their questions.  Lead Counsel has shown
+that Gilardi & Co. is an experienced and reliable claims
+administrator that has administered claims in hundreds of other
+securities class actions.  See www.gilardi.com.  See also #5892
+at 5; Declaration of Dennis A. Gilardi (# 5899)(“During the past
+25 years, Gilardi has provided notice and administration services
+in more than 2,500 class actions.”).  Its personnel answer
+telephone calls, email, and regular mail inquiries from claimants.
+#5899 at 3.  They provide individual review of claims, provide
+information about any deficiencies in the claims or documentation
+necessary to support them, and help each claimant throughout the
+process to cure any deficiency where possible.  Id. at 4-5
+(“Gilardi views its role in the deficiency and cure process as
+that of a facilitator, and never as an adversary.”).  Furthermore
+there is an appeals process in the Plan:  if the Claims
+
+
+- 22 -
+Administrator 
+rejects 
+the 
+claimant’s 
+claim, 
+the 
+Claims
+Administrator will send a rejection letter advising the claimant
+of his rights and the reasons for the rejection, and the claimant
+may request an administrative review and/or has recourse to turn
+to the Court and ask it to review his claim.  Id. at 4-6; #5900,
+Notice, Ex. A, § V.E.(5)(“The Court reserves jurisdiction to
+modify, amend, or alter the Plan of Allocation without further
+notice or to allow or disallow or adjust any Authorized Claimant’s
+claim, to ensure fair and equitable distribution of funds.”).  As
+for any time limits, Gilardi is “committed to an efficient and
+timely distribution of the Fund”.  #5899 at 6.  As noted by Lead
+Counsel, there are a number of factors beyond Gilardi’s control:
+whether the Plan of Allocation approved by the Court is appealed;
+how complete, accurate and properly supported by documentation the
+submitted claims are; how many Eligible Claimants will require
+assistance from Gilardi and Lead Counsel; and how many will
+request a Court review of Gilardi’s determination.  As for any
+delays in claimants’ obtaining the necessary documentation to
+support their claims, the Court has authorized Lead Counsel, “in
+their discretion, [to] accept for processing late claims so long
+as the distribution of the Net Settlement Fund to Authorized
+Claimants is not materially delayed thereby.  The Court finds
+
+
+- 23 -
+unnecessary periodic reports from the Claims Administrator and
+periodic or delayed payments for its services.
+Mr. Fenstad and Ms. McCoppin also request the Court to
+provide them with “a reasonable incentive award” for their
+services as class representatives and objectors.  As this Court
+has indicated in #5996, such incentive awards are contrary to the
+policy behind the PSLRA.  Thus the Court denies the request.
+c.  Jeanette Dreisbach (#5873) complains that shareholders will
+only receive a distribution of $6.79 per share of common stock,
+especially in view of the settlement recovery of $7.227 billion.
+She asks the Court to “[a]llow individual investors/shareholders
+to recover full amount of loss then whatever amount remains in the
+Allocation Fund be split fairly among the other plaintiffs who
+were acting as money managers for other people’s money and did not
+suffer personal loss.”  
+While the “money managers” may not personally have lost
+money, their clients or plan participants surely did.  The
+institutional investors deserve a fair allocation of the
+settlement funds as much as the individual investors do.  Ms.
+Dreisbach’s objection is overruled.  
+
+
+     
+16 Silvercreek Management, Inc., Silvercreek Limited
+Partnership, Silvercreek II Limited, OIP Limited and Pebble Limited
+Partnership.
+     17 Originally the Silvercreek Plaintiffs joined in the
+Opposition of Nathaniel Pulsifer as Trustee of Shooter’s Hill
+Revocable Trust (#5764), investors in Enron 7% Exchangeable Notes,
+arguing that the Plan failed to segregate the funds from the
+section 11 claims from the funds from the section 10(b) claims.
+After Pulsifer and Lead Plaintiff resolved Pulsifer’s objection by
+adjusting the Plan by increasing the size of the multiplier for the
+7% Exchangeable Notes, Silvercreek filed its own objection.  
+     18 Specifically they contend that the funds from the “pure §
+11 settlements” (with Bank of America, Lehman Brothers, and the
+Outside Directors) are improperly commingled with the remaining
+Enron settlements, which included settlement by parties who were
+liable to all Enron stakeholders, and not just to investors in
+certain specific Enron Securities.
+     19 Bank of America, Outside Directors, and Lehman Brothers.
+- 24 -
+d.  Silvercreek Plaintiffs16 (#5874)17 object that the plan, with
+its single pool, improperly intermingles funds from different
+settlements18 and thereby unfairly dilutes the recovery of class
+member owners of the  7%, 7.375%, 7.875%, and Zero Coupon Notes,
+whose claims arise exclusively or predominately under Section 11,
+in favor of open market securities, whose claims are predicated
+solely or predominately on Section 10(b).  Because the section 11
+defendants19 settled claims arising under only that statute,
+Silvercreek Plaintiffs contend that there is no basis to require
+the settlement consideration paid by them to be distributed to
+other class members who have no claim against these defendants.
+Rather than using multipliers and a single pool, the Silvercreek
+
+
+     20 The Silvercreek Plaintiffs’ objections (that access to the
+settlement funds from section 11 claims should be limited to
+section 11 claimants) were previously raised by Nathaniel Pulsifer,
+as Trustee of the Shooter’s Hill Revocable Trust, with regard to
+the preliminary approval of the Plan of Allocation.
+- 25 -
+Plaintiffs want separate pools of funds established for the
+section 11 claimants and a single pool for all the rest.
+Lead Plaintiff urges the Court to overrule the
+Silvercreek Plaintiffs’ objection that the claims of class members
+with § 11 claims are being diminished in favor of class members
+with § 10(b) claims.  It first insists that monies obtained in
+settlement of the 7% Note claims were obtained in exchange for
+extinguishment of both § 11 and § 10(b) claims, and thus should
+not be segregated from other § 10(b) claims.  See Lead Plaintiff’s
+Response to Nathaniel Pulsifer’s Opposition,20 #5774 at 1.  For
+example, even though the § 10(b) claims against it had been
+dismissed, the Bank of America demanded, and was accorded, as a
+condition of the settlement a broad definition of the settlement
+class and releases of § 10(b) claims relating to many Enron or
+Enron-related securities.
+Second, 
+Lead 
+Counsel 
+argues 
+against 
+Silvercreek
+Plaintiffs, establishing separate pools of funds for § 11
+purchasers could result in disparate recoveries among claimants
+because of disparate claim rates.  Supplemental Declaration of its
+Plan expert, Professor Roman L. Weil (#5898).  Professor Ramon
+
+
+- 26 -
+Weil explains that such an allocation could result unfairly in
+“eventual outcomes to participants that could be so disparate as
+to violate the principle underlying the Plan that all authorized
+claimants be treated in a way so as to nullify the effect of
+differential claims rates.”  See Weil Supplemental Declaration
+(#5898 at 1), citing Weil Declaration (#5794) at ¶ 23(h).  Exhibit
+1 to #5898, asserts Professor Weil, shows how reasonably different
+claims rates could lead to disparate recovery rates, exactly what
+Lead Plaintiff has tried to avoid.  Instead, under the Plan, he
+maintains, if the claims rates turn out to be the same across
+classes of claims, with the use of multipliers the § 11 securities
+will receive the amounts they would have gotten if there had been
+separate pools, as long as half or more of the § 11 eligible
+claimants make claims.  #5898, Ex. 2.  In other words, a single
+pool of funds with use of differential multipliers eliminates the
+possibility of windfall for some of the § 11 claims that would
+arise if there were separate pools and a low claims rate for one
+of the pools.  
+Realizing that the single pool with use of multipliers
+and separate pools are alternative methods to establish a Plan of
+Allocation, neither perfect, each potentially favoring and/or
+disfavoring some class members to some degree depending on the
+circumstances, the Court finds the Lead Plaintiff has shown that
+
+
+     21 Silvercreek Plaintiffs state that they excluded themselves
+from the Citigroup, CIBC, JP Morgan Chase and Arthur Andersen
+settlement classes.  They are members of the Bank of America,
+Outside Directors, Lehman Brothers, Andersen Worldwide, and
+Kirkland and Ellis classes.
+- 27 -
+the single-pool approach with the use of multipliers to put the
+§ 11 Note purchasers in the same economic positions as if
+segregation of the funds had occurred is a fair, reasonable, and
+adequate means for distribution of the recovery funds in this
+litigation.
+The Silvercreek Plaintiffs further object to the failure
+of Section C(1)(q) of the Plan of Allocation to properly address
+the manner of distribution to class members who opted out of some
+settlement classes while remaining in others.21
+Lead Counsel responds that it has already explained to
+the Silvercreek Plaintiffs by letter, “The Recognized Claims of
+those who opted out of some, but not all, settlements will be
+reduced by the amount of those settlements opted out of divided
+by the total amount of all settlements.”  Letter from Helen J.
+Hodges to Steven N. Williams, dated September 10, 2007
+(Supplemental Compendium (#5910), Ex. 20).  The Silvercreek
+Plaintiffs never responded to the letter nor objected again at the
+preliminary approval stage last December.  Furthermore, argues
+Lead Counsel, a pro rata adjustment is equitable and the
+Silvercreek Plaintiffs fail to propose any alternative.  The Court
+
+
+- 28 -
+agrees with Lead Counsel that the letter’s response, which
+Silvercreek 
+Plaintiffs 
+have 
+not 
+timely 
+or 
+substantively
+challenged, is equitable and rational, and that it, too, is an
+adequate, fair and reasonable solution.
+e.  Wiley M. Cauthen (#5884) objects to exclusion of those who
+acquired Enron securities before the Eligible Period and held them
+during the Eligible Period.  Cauthen also objects to exclusion of
+those who acquired Enron securities during or prior to the
+Eligible Period by means of a gift, inheritance or operation of
+law and held them during the Eligible Period.
+Lead Counsel correctly cites the law often applied by
+this Court in ruling on motions in this litigation:  “It is well
+established that the mere retention of securities in reliance on
+material misrepresentations or omissions does not form the basis
+for § 10(b) or Rule 10b-5 claim.”  Krim v. BancTexas, Inc., 989
+F.2d 1435, 1443 n.7 (5th Cir. 1993).  See also In re Enron Corp.
+Sec., Derivative & ERISA Litig., 284 F. Supp.2d 511, 635 (S.D.
+Tex. 2003), citing Blue Chip Stamps v. Manor Drug Stores, 421 U.S.
+723 (1975), and Birnbaum v. Newport Steel Corp., 193 F.3d 461 (2d
+Cir. 1952).  
+Furthermore, a person who receives a security as a gift
+or through inheritance, but who parts with no consideration and
+incurs no liabilities in connection therewith, is not a purchaser
+
+
+- 29 -
+or seller of the security entitled to maintain a § 10(b) and Rule
+10b-5 cause of action.  Rose v. Arkansas Valley Environmental &
+Utility Authority, 462 F. Supp. 1180, 1188-89 (W.D. Mo.
+1983)(donees and legatees lack standing to bring § 10(b) claims
+because they are not purchasers or sellers), citing Blue Chip and
+Birnbaum.  
+Thus the Court overrules Mr. Cauthen’s objections.
+f.  Fiduciary Counselors, as the independent fiduciary for the
+Enron Corp. Savings Plan and the Enron Corp. Employee Stock
+Ownership Plan, (#5869 at 18-22) focuses on § V.C.(j) of the
+Notice:
+An Authorized Claimant’s gains and losses on
+a particular Eligible Security acquired in
+the Eligible Period will be netted against
+each other to determine the Authorized
+Claimant’s net Recognized Claim on that
+security.  In the case of Enron common stock
+and options on that stock, gains and losses
+on both the stock and options will be
+combined and thereafter netted against each
+other.  In all other cases, gains and losses
+will not be netted or aggregated across
+different Eligible Securities.  For example,
+an Authorized Claimant’s Recognized Claim (as
+calculated under this Plan) on Enron common
+stock/options will not offset his/her/its
+Recognized Claim (as calculated under this
+Plan) on any issue of Enron Notes, nor will
+any Authorized Claimant’s Recognized Claim on
+one issue of Enron Note(s) offset any gains
+on a different issue of Enron Note(s).
+Id. (emphasis in original).
+
+
+     22 Fiduciary Counselors notes the one exception for purchasers
+of Enron stock and options on common stock, for which the Plan does
+net (offset) gains and losses.
+- 30 -
+“A plan of allocation that reimburses class members on
+the extent of their injuries is generally reasonable.”  Schwartz,
+2005 WL 3148350, at *23, quoting In re Oracle Sec. Litig., [1994-
+1995 Transfer Binder] Fed. Sec. L. Rep. (CCH) 98,355, at 90,446
+(N.D. Cal. 18, 1994).  Highlighting this statement, Fiduciary
+Counselors objects that Notice § V.C.(j) is “fundamentally unfair”
+because “those who traded multiple Eligible Securities and did not
+suffer an overall loss on their Enron securities (or whose out of
+pocket loss was offset in part by gains) may nevertheless claim
+their full losses from that portion of their investments which
+were unsuccessful.”22  #5969 at 18.  Since Eligible Claimants’
+“gains and losses will not be netted or aggregated across
+different Eligible Securities,” the proposed Plan also “would
+provide a windfall for sophisticated investors, such as hedge
+funds or arbitrageurs who engaged in hedging Enron stock against
+Enron debt securities, as well as other investors who were simply
+lucky enough to make money on one Enron security while also
+suffering a loss in another.”  #5869 at 18.  Their actual injuries
+from investing in Enron could be far less than their Recognized
+Claim, or they might actually have no injuries at all (if their
+gains offset their losses).  An investor who bought Enron bonds
+
+
+- 31 -
+and sold its Enron stock short might profit or break even when
+Enron collapsed, but would still be allocated a portion of the
+settlement fund for the bond loss.  Fiduciary Counselors argues
+that the Plan compensates sophisticated investors to the detriment
+of ordinary investors, including participants of the Enron Plans.
+#5869 at 18-20,. Fiduciary Counselors disagrees with Lead
+Counsel’s decision that “the balance of fairness weighs in favor
+of allowing investors who invested in different types of
+securities for different purposes to keep the profits from their
+successful investments, while still compensating those investors
+for their losses” because it fails “this Circuit’s fairness
+analysis.”  #5869 at 21, citing In re Chicken Antitrust Litig.,
+669 F.2d at 238.  Insisting its objection is not hypothetical,
+Fiduciary Counselors points out that a fund of Wilbur L. Ross did
+precisely that.  See WL Ross:  Hope Rising From the Ashes,
+Euromoney, May 2002 at 80-81 (Ex. 8 to #5869)(“the fund went short
+in Enron stock and simultaneously long in Enron bonds.  The profit
+made from Enron’s precipitous decline from $30 to 30 cents-–the
+level at which [the fund] sold out–-was given back when the bonds
+also collapsed.  Ross [the chairman of the fund’s manager] says
+the firm broke even on the Enron trade.”).
+In response, Lead Counsel explains that the Plan
+acknowledges the differing investment objectives of those who
+
+
+- 32 -
+purchased different kinds of Enron securities; it takes into
+account the fact that purchasers of fixed income securities were
+seeking regular interest payments under the notes, and that
+purchasers of common stock looked to capital appreciation as their
+major source of return and that during the class period they
+commonly hedged their purchase of Enron common stocks with options
+on Enron equities.  Because hedging of equity securities was so
+common at the time, the Plan provides that “in the case of Enron
+common stock and options on that stock, gains and losses on both
+stock and options will be combined and thereafter netted against
+each other.”  Notice, § V.C.1.(j).    
+Lead Counsel further asserts that capital-structured
+arbitrage only became an accepted investment technique in late
+2001, i.e., at the end of the Enron debacle.  #5892 at 21-22,
+citing Adam Bradbery, Hedge Funds Take a Capital-Structure
+Arbitrage, Wall St. J., Aug. 19, 2003, found in Supplemental
+Compendium 
+(#5910), 
+Ex. 
+25; 
+and 
+Robert 
+Clow, 
+Global
+Investing–Vultures Scour the Horizon for New Prey, Fin. Times,
+Oct. 22, 2001 at 25, found in Supplemental Compendium (#5910) at
+Ex. 26 at 25 (“The hedge fund managed by his W.L. Ross normally
+engages in capital structure arbitrage, shorting the equities of
+distressed companies, which could easily prove worthless, and
+buying their bonds.”)  Because capital structure arbitrage was not
+
+
+- 33 -
+an established investment technique during the Eligible Period,
+the identification of a single investor by Fiduciary Counselors
+does not make the Plan unfair.
+To Fiduciary Counselors’ contention that even ordinary
+investors who traded in different bond classes could “reap
+windfalls from the Plan of Allocation at the expense of Plan
+Participants and other ordinary investors, Lead Counsel counters
+that profits from these various bond transactions could have come
+about from changes in interest rates or other factors not related
+to fraud.  Furthermore, the Plan takes into account the different
+motivations of investors in choosing different types of
+securities.  Lead Plaintiff believes the Plan’s allocation is a
+fair method to distribute the settlement proceeds.
+Finally, Lead Plaintiff believes that “the balance of
+fairness militates against offsetting gains and losses across all
+classes of Eligible Securities.”  #5892 at 22.  Lead Plaintiff
+similarly decided it was not fair to offset recoveries that
+Eligible Claimants received from other legal proceedings against
+distributions 
+here; 
+therefore 
+the 
+Plan 
+does 
+not 
+offset
+distributions that Eligible Claimants received in the Bankruptcy
+proceedings nor recoveries they received in the Tittle action.
+If the Plan were to net gains and losses of a Claimant across all
+classes of Enron securities, in fairness it should also consider
+
+
+- 34 -
+offsetting 
+gains 
+from 
+recoveries 
+in 
+these 
+Enron-related
+litigations.
+This Court reiterates that there is no way to allocate
+these proceeds that would not in some way favor or disfavor to
+some degree some of the class members.  On the whole, the Court
+finds that the considerations behind the Plan’s design to not
+offset gains and losses across all classes of Eligible Securities
+are very reasonable, and given the difficult balance of so many
+factors, the chosen method is fair, adequate and reasonable.
+g.  P.E. Ilavia (#5948) wrote a letter to the Court requesting
+that it include the common stock he acquired through the stock
+split that occurred on August 13, 1999 in what the Plan refers to
+as “Enron Securities you purchased or otherwise acquired during
+the period September 9, 1997 to December 2, 2001.”  The letter
+states that Mr. Ilavia attended both the sessions held in Houston
+by Gilardi & Co. for investors on March 27 and 29, 2008, where he
+was told the split would not count as an eligible acquisition.
+He argues, “A split is an acquisition of a corporation’s security,
+as per SEC, and as such should be counted as an acquisition.”
+ 
+Lead Plaintiff responds that the stock acquired in a 2-
+for-one stock split on August 13, 1999 is not and should not be
+included for distribution under the Plan of Allocation.  #5951 at
+1-2.  If a person held ten shares on that date, he had twenty
+
+
+- 35 -
+shares after the split, and each share traded at half the price
+on the day after the split (on August 13, 1999, the pre-split
+price of an Enron share was $87.6888, and the next day, $43.875);
+moreover, there was no payment made nor consideration given for
+the additional shares.  See Richard A. Brealey and Stewart C.
+Myers, Principles of Corporate Finance, at 291 (McGraw Hill, 3d
+ed. 1988)(referring to split transactions as a “free gift” of
+shares).  The Plan states, “For each unit of . . . Enron common
+stock, . . . purchased in the Eligible Period, the Recognized Loss
+. . . is the dollar amount of the inflation in the Purchase Price
+Paid at date of acquisition times the number of units acquired,
+minus the dollar amount of inflation in the Sale Price Received
+at date of sale if sold prior to December 3, 2001, times the
+number of units sold.”  #5789 or 5900, Notice at V.D.1.(a).
+“Purchase Price Paid” is defined as “the amount paid or value of
+the consideration given for each unit of the security.”  Id. at
+V.D.  Since the amount paid or consideration given for the stock
+received through the 2-for-1 stock split was zero at the time of
+the split, the “Purchase Price Paid” for the stock acquired is
+zero.  Because the investor paid nothing to “acquire” the stock
+through the split, he has no Recognized Loss under the Plan for
+the acquisition of those additional shares.  Lead Counsel
+summarizes, “[R]eal economic losses are determined based on the
+
+
+- 36 -
+amount paid or consideration given at the time of the stock
+acquisition.  When nothing was paid and no consideration was given
+to acquire the stock, as in the stock split, there is no
+compensable economic loss for additional shares received.”  #5951
+at 2-3.
+Although Mr. Ilavia reiterated his objection and other
+complaints in another letter, #5957, the Court finds Lead
+Counsel’s explanation clear, rational, and supported by the
+language of the Plan.  It is also in accord with the law.  Rose
+v. Arkansas Valley Environmental & Utility Authority, 462 F. Supp.
+at 1188-89 (a person who receives a security as a gift or through
+inheritance, but who parts with no consideration and incurs no
+liabilities in connection therewith, is not a purchaser or seller
+of the security entitled to maintain a § 10(b) and Rule 10b-5
+cause of action).  Accordingly the Court overrules Mr. Ilavia’s
+objections. 
+III.  Ruling
+Having reviewed all submissions and heard oral arguments
+at the Fairness Hearing, made findings of fact, and addressed all
+pending objections, this Court finds that the proposed Plan of
+Allocation is fair, adequate and reasonable.  Accordingly, the
+Court
+
+
+- 37 -
+ORDERS that Lead Plaintiff’s motion for final approval
+of the proposed Plan of allocation of the settlement proceeds
+(instrument #5793) is GRANTED.
+  
+SIGNED at Houston, Texas, this 8th day of September,
+2008.
+________________________________
+         MELINDA HARMON
+  UNITED STATES DISTRICT JUDGE
+
+

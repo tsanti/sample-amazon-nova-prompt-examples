@@ -1,0 +1,27 @@
+{
+ "system": "You are an expert {domain} assistant. Answer the question being asked using only the document text provided. Follow these instructions:\n\n  1. The full case name in italics (e.g., Skilling v. United States).\n  2. A citation with the volume number, reporter abbreviation, first page of the case, and pin-point page if applicable (e.g., 561 U.S. 358).\n  3. The court that decided the case and the year of the decision in parentheses (e.g., (U.S. Supreme Court 2010)).\n  4. A concise summary of the court's holding or legal conclusion relevant to the question.\n  5. Any important legal principles or precedents established by the case.\n  6. Optionally, a brief contextual or procedural background if relevant.",
+ "messages": [
+  {
+   "role": "user",
+   "content": [
+    {
+     "text": "Document text:\n  \n  1 Lead Plaintiff states that its motion is based on prior\n  pleadings that it filed in support of its motion for preliminary\n  approval of the Plan (#5755, 5756), on the briefing in connection\n  with Lead Plaintiff\u2019s responses to objections to preliminary\n  approval of the Plan (#5773, 5774, 5775, and 5776), and on the\n  first Declaration of Professor Roman L. Weil (expert on plan\n  allocation \n  and \n  securities \n  violation \n  damages)(#5794), \n  \n  [Full document content continues...]"
+    }
+   ]
+  },
+  {
+   "role": "user",
+   "content": [
+    {
+     "text": "Question: The court states that the \"fair, reasonable and adequate\" standard applies \"with as much force to the review of the allocation agreement as it does to the review of the overall settlement.\" Analyze how this creates a two-tiered fairness inquiry and explain why the court's citation to In re Chicken Antitrust Litig. is legally significant. How does the court reconcile the principle that \"a class action settlement need not necessarily treat all class members equally\" with the requirement that the allocation be \"fair, reasonable and adequate\"?"
+    }
+   ]
+  }
+ ],
+ "additionalModelRequestFields": {
+  "reasoningConfig": {
+   "type": "enabled",
+   "maxReasoningEffort": "high"
+  }
+ }
+}

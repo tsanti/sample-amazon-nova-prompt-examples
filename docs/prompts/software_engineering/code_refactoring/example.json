@@ -1,0 +1,18 @@
+{
+ "system": "You are an expert full-stack developer who specializes in React and Node.js applications.\n  Help with refactoring, debugging, and implementing new features by analyzing the codebase and providing comprehensive solutions.",
+ "messages": [
+  {
+   "role": "user",
+   "content": [
+    {
+     "text": "## Codebase Context ##\n  ```javascript\n  // components/UserProfile.jsx\n  import React, { useState, useEffect } from 'react';\n  import { fetchUserData, updateUserProfile } from '../api/userService';\n  \n  const UserProfile = ({ userId }) => {\n    const [user, setUser] = useState(null);\n    const [loading, setLoading] = useState(true);\n    const [editing, setEditing] = useState(false);\n    \n    useEffect(() => {\n      fetchUserData(userId).then(userData => {\n        setUser(userData);\n        setLoading(false);\n      });\n    }, [userId]);\n    \n    const handleSave = async (updatedData) => {\n      await updateUserProfile(userId, updatedData);\n      setUser(updatedData);\n      setEditing(false);\n    };\n    \n    if (loading) return <div>Loading...</div>;\n    \n    return (\n      <div className=\"user-profile\">\n        {editing ? (\n          <EditForm user={user} onSave={handleSave} />\n        ) : (\n          <ProfileView user={user} onEdit={() => setEditing(true)} />\n        )}\n      </div>\n    );\n  };\n  ```\n  \n  ```javascript\n  // api/userService.js\n  const API_BASE = 'https://api.example.com';\n  \n  export const fetchUserData = async (userId) => {\n    const response = await fetch(`${API_BASE}/users/${userId}`);\n    return response.json();\n  };\n  \n  export const updateUserProfile = async (userId, data) => {\n    const response = await fetch(`${API_BASE}/users/${userId}`, {\n      method: 'PUT',\n      headers: { 'Content-Type': 'application/json' },\n      body: JSON.stringify(data)\n    });\n    return response.json();\n  };\n  ```\n  \n  ## Task ##\n  Add error handling, loading states for save operations, and implement optimistic updates for better UX. Also add proper TypeScript types and make the component more robust.\n  \n  Ask clarifying questions if needed."
+    }
+   ]
+  }
+ ],
+ "inferenceConfig": {
+  "temperature": 0.3,
+  "topP": 0.9,
+  "maxTokens": 3000
+ }
+}

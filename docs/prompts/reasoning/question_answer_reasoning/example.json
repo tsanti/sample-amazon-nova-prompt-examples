@@ -1,0 +1,19 @@
+{
+ "system": "You are an expert software engineer who analyzes application logs to diagnose issues and provide solutions.\n  Use the provided log data to answer questions thoroughly and cite relevant information from the logs.",
+ "messages": [
+  {
+   "role": "user",
+   "content": [
+    {
+     "text": "## Context ##\n  **Application Debug Logs - E-commerce Checkout Flow**\n  \n  ```\n  2024-11-22 10:15:23 [INFO] User session started: user_id=12345, session_id=abc-def-789\n  2024-11-22 10:15:24 [INFO] User navigated to product page: product_id=SKU-001, category=electronics\n  2024-11-22 10:15:45 [INFO] Product added to cart: product_id=SKU-001, quantity=2, price=299.99\n  2024-11-22 10:16:12 [INFO] User navigated to cart page\n  2024-11-22 10:16:15 [INFO] Cart validation successful: total_items=2, subtotal=599.98\n  2024-11-22 10:16:18 [INFO] User clicked checkout button\n  2024-11-22 10:16:19 [INFO] Checkout process initiated: user_id=12345\n  2024-11-22 10:16:20 [INFO] Loading shipping addresses for user_id=12345\n  2024-11-22 10:16:21 [INFO] Found 2 saved addresses for user\n  2024-11-22 10:16:25 [INFO] User selected shipping address: address_id=addr_456\n  2024-11-22 10:16:30 [INFO] Calculating shipping costs for zip_code=90210\n  2024-11-22 10:16:31 [INFO] Shipping cost calculated: standard=$9.99, express=$19.99\n  2024-11-22 10:16:35 [INFO] User selected standard shipping\n  2024-11-22 10:16:40 [INFO] Proceeding to payment step\n  2024-11-22 10:16:41 [INFO] Loading saved payment methods for user_id=12345\n  2024-11-22 10:16:42 [WARN] No saved payment methods found for user\n  2024-11-22 10:16:45 [INFO] User entered new credit card details\n  2024-11-22 10:16:46 [INFO] Validating credit card number: ****1234\n  2024-11-22 10:16:47 [ERROR] Credit card validation failed: invalid_luhn_checksum\n  2024-11-22 10:16:47 [INFO] Displaying error message to user: \"Please check your card number\"\n  2024-11-22 10:17:02 [INFO] User re-entered credit card details\n  2024-11-22 10:17:03 [INFO] Validating credit card number: ****5678\n  2024-11-22 10:17:04 [INFO] Credit card validation successful\n  2024-11-22 10:17:05 [INFO] Validating expiration date: 12/2027\n  2024-11-22 10:17:06 [INFO] Expiration date validation successful\n  2024-11-22 10:17:07 [INFO] Validating CVV code\n  2024-11-22 10:17:08 [INFO] CVV validation successful\n  2024-11-22 10:17:10 [INFO] Processing payment authorization\n  2024-11-22 10:17:12 [INFO] Contacting payment gateway: gateway=stripe\n  2024-11-22 10:17:15 [INFO] Payment gateway response: status=success, auth_code=AUTH123456\n  2024-11-22 10:17:16 [INFO] Payment authorized successfully: amount=$609.97\n  2024-11-22 10:17:17 [INFO] Creating order record in database\n  2024-11-22 10:17:18 [INFO] Order created: order_id=ORD-789123, status=confirmed\n  2024-11-22 10:17:19 [INFO] Sending confirmation email to: user@example.com\n  2024-11-22 10:17:20 [INFO] Email sent successfully\n  2024-11-22 10:17:21 [INFO] Clearing user cart\n  2024-11-22 10:17:22 [INFO] Cart cleared successfully\n  2024-11-22 10:17:23 [INFO] Redirecting user to order confirmation page\n  2024-11-22 10:17:24 [INFO] Order confirmation page loaded: order_id=ORD-789123\n  ```\n  \n  ## Question ##\n  The user reported that their checkout process failed and they couldn't complete their purchase. Based on these logs, what actually happened during their checkout experience? Was there really a failure, and if so, what caused it and how was it resolved?\n  \n  Ask clarifying questions if needed."
+    }
+   ]
+  }
+ ],
+ "additionalModelRequestFields": {
+  "reasoningConfig": {
+   "type": "enabled",
+   "maxReasoningEffort": "high"
+  }
+ }
+}
